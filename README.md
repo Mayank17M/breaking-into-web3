@@ -23,3 +23,29 @@ The resources here are primarily for Ethereum Developers, but many concepts are 
 * [Ethereum Org](https://ethereum.org/en/) Portal into the Ethereum world.
 * [Understanding Ethereum](https://education.district0x.io/general-topics/understanding-ethereum/) Educational ethereum portal for beginners.
 * [Ethereum Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) Ethereum DApp Boilerplate.
+
+## Programming Languages
+
+* [Solidity](https://docs.soliditylang.org/en/v0.8.13/) is an object-oriented, high-level language for implementing smart contracts.
+  - [Solidity CheatSheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg)
+  - [Solidity CheatSheet2](https://github.com/manojpramesh/solidity-cheatsheet)
+* [Vyper](https://vyper.readthedocs.io/en/stable/) a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM).
+
+## SDKs
+
+* [Moralis](https://moralis.io) Moralis provides a single workflow for building high performance dapps.
+* [thirdweb](https://thirdweb.com) Smart contracts you control. Intuitive SDKs and embeds for developers.
+
+## Ethereum IDEs
+
+* [Remix](https://remix.ethereum.org)  Web IDE with built in static analysis, test blockchain VM.
+* [VS Code with Solidity Extensions](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) 
+
+## Youtube Channels and Videos
+
+* [Decentralizing Everything](https://www.youtube.com/watch?v=WSN5BaCzsbo) Vitalik Buterin explains what it is and why it's useful.
+* [Ethereum Foundation](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g)
+* [Eat the blocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
+* [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+* [Blockgeeks](https://www.youtube.com/c/BlockGeeks/videos)
+* [Finematics](https://www.youtube.com/c/Finematics/videos)
